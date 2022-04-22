@@ -2004,6 +2004,7 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		right: 180px;
 	}
 
 		.icon:before {
@@ -2145,7 +2146,7 @@ input, select, textarea {
 				border-radius: 100%;
 				width: 110%;
 				position: relative;
-				right: 245px:
+				right: 245px;
 			}
 
 /* List */
@@ -2669,6 +2670,8 @@ input, select, textarea {
 			line-height: 1em;
 			margin-left: 0.75em;
 			padding-left: 0.75em;
+			position: relative;
+			right: 160px;
 		}
 
 			#footer .copyright li:first-child {
