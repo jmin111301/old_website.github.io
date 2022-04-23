@@ -2004,7 +2004,7 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
-		right: 180px;
+		right: 265px;
 	}
 
 		.icon:before {
@@ -2671,7 +2671,7 @@ input, select, textarea {
 			margin-left: 0.75em;
 			padding-left: 0.75em;
 			position: relative;
-			right: 160px;
+			right: 130px;
 		}
 
 			#footer .copyright li:first-child {
