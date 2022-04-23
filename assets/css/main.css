@@ -2742,6 +2742,11 @@ input, select, textarea {
 		margin: 0em 0 0 0;
 		padding: 0 0 0 0;
 		}
+	#main section#four {
+		border-top: solid 2px #efefef;
+		margin: 0em 0 0 0;
+		padding: 0 0 0 0;
+		}
 
 		#main > section {
 			border-top: solid 2px #efefef;
@@ -3275,3 +3280,8 @@ input, select, textarea {
 			}
 
 	}
+
+#bottom_link ul{
+	margin: 1em 0em 0em 0em;
+	padding: 1em 0em 0em 0em;
+	vertical-align: baseline;}
