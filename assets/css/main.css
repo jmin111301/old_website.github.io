@@ -2738,6 +2738,12 @@ input, select, textarea {
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 35%);
 	}
+	
+	#main section#one {
+		border: none;
+		margin: 0em 0 0 0;
+		padding: 0 0 0 0;
+		}
 
 		#main > section {
 			border-top: solid 2px #efefef;
@@ -3232,8 +3238,8 @@ input, select, textarea {
 			}
 
 				#main > section {
-					margin: 2.25em 0 0 0;
-					padding: 2.25em 0 0 0;
+					margin: 1em 0 0 0;
+					padding: 1em 0 0 0;
 				}
 
 		/* Poptrox */
