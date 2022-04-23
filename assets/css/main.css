@@ -1893,7 +1893,6 @@ input, select, textarea {
 		}
 
 	select {
-		background-image: url("images/city.jpg");
 		background-size: 1.25rem;
 		background-repeat: no-repeat;
 		background-position: calc(100% - 1rem) center;
@@ -2643,8 +2642,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background-color: #1f1815;
-		background-attachment: scroll,								scroll;
-		background-image: url("images/city.jpg");
+		background-attachment: scroll,			
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
@@ -3058,7 +3056,6 @@ input, select, textarea {
 				width: 30%;
 				background-color: #1f1815;
 				background-attachment: scroll, scroll;
-				background-image: url("images/city.jpg");
 			}
 
 				#header h1 {
@@ -3123,7 +3120,6 @@ input, select, textarea {
 				top: auto;
 				width: 100%;
 				display: block;
-				background-image: url("images/city.jpg");
 			}
 
 				#header h1 {
@@ -3139,7 +3135,6 @@ input, select, textarea {
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("images/city.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
